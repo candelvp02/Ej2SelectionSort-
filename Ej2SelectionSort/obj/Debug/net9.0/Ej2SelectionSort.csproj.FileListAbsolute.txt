@@ -1,0 +1,15 @@
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\bin\Debug\net9.0\Ej2SelectionSort.exe
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\bin\Debug\net9.0\Ej2SelectionSort.deps.json
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\bin\Debug\net9.0\Ej2SelectionSort.runtimeconfig.json
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\bin\Debug\net9.0\Ej2SelectionSort.dll
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\bin\Debug\net9.0\Ej2SelectionSort.pdb
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2SelectionSort.AssemblyInfoInputs.cache
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2SelectionSort.AssemblyInfo.cs
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2SelectionSort.dll
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\refint\Ej2SelectionSort.dll
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2SelectionSort.pdb
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2SelectionSort.genruntimeconfig.cache
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\ref\Ej2SelectionSort.dll
+C:\Users\perey\source\repos\Ej2SelectionSort\Ej2SelectionSort\obj\Debug\net9.0\Ej2Selec.CC0307BB.Up2Date

@@ -1,0 +1,1 @@
+InventarioSelectionSort.Ejecutar();
